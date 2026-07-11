@@ -1,0 +1,43 @@
+﻿# Windows installation files
+*.iso
+*.wim
+*.esd
+*.swm
+
+# Application installers and packages
+*.exe
+*.msi
+*.msix
+*.appx
+*.intunewin
+
+# Package and temporary output
+package-output/
+downloads/
+temporary-files/
+temp/
+tmp/
+
+# Security-sensitive files
+*.pfx
+*.p12
+*.key
+*.pem
+.env
+secrets/
+credentials/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# PowerShell temporary output
+*.clixml
+
+# Editor configuration
+.vscode/
+.idea/
