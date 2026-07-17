@@ -326,8 +326,6 @@ Evidence includes:
 * Screenshot of the Enrolment Status Page settings
 * Screenshot of the ESP assignment
 
-```
-
 ## Diagram
 
 Diagram created for this project stored in the `Diagrams` folder.
