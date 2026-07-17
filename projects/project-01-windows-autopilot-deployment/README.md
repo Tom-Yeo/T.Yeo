@@ -17,7 +17,7 @@ No physical device is enrolled into Windows Autopilot as part of this project. T
 
 ## Project Status
 
-Planned
+Complete
 
 ## Project Location
 
