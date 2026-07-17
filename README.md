@@ -104,7 +104,7 @@ Create Windows 11 installation media and complete a clean laptop rebuild.
 
 **Location:** [projects/project-01-windows-autopilot-deployment](projects/project-01-windows-autopilot-deployment)
 
-**Status:** Planned
+**Status:** Complete
 
 Configure and document the core Windows Autopilot deployment components required to target and provision Windows 11 corporate devices.
 
